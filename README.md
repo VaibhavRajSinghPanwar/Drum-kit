@@ -30,10 +30,15 @@ When a user presses a certain key on their keyboard, a corresponding **drum soun
 ### Example Sound Mapping:
 - **A** → Kick  
 - **S** → Snare  
-- **D** → Hi-Hat  
 - **F** → Tom  
+- **D** → Hi-Hat  
 - **G** → Crash  
 
 Name :- Vaibhav Raj Singh Pawar
 Class :- 6th C
+# testings
+testing branch updates
+
+# testing2
+testing merge
 
