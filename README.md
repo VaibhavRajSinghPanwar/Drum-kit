@@ -43,4 +43,4 @@ testing branch updates
 testing merge
 
 # testing 3
-testing merge conflictsgit
+testing merge conflicts
